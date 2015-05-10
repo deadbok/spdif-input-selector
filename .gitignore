@@ -1,0 +1,14 @@
+*.cof
+*.hex
+*.sym
+*.map
+*.hxl
+*.DSN
+*.DBK
+
+*.obj
+*.lst
+*.p*
+*.rlf
+*.sdb
+

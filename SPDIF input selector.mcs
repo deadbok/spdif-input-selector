@@ -1,0 +1,48 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\pic\SPDIF input selector\main.obj
+Folder=Intermediary
+[File001]
+Location=C:\pic\SPDIF input selector\main.sdb
+Folder=Intermediary
+[File002]
+Location=C:\pic\SPDIF input selector\main.rlf
+Folder=Intermediary
+[File003]
+Location=C:\pic\SPDIF input selector\main.lst
+Folder=Intermediary
+[File004]
+Location=C:\pic\SPDIF input selector\delay.obj
+Folder=Intermediary
+[File005]
+Location=C:\pic\SPDIF input selector\delay.sdb
+Folder=Intermediary
+[File006]
+Location=C:\pic\SPDIF input selector\delay.rlf
+Folder=Intermediary
+[File007]
+Location=C:\pic\SPDIF input selector\delay.lst
+Folder=Intermediary
+[File008]
+Location=C:\pic\SPDIF input selector\SPDIF input selector.cof
+Folder=Output
+[File009]
+Location=C:\pic\SPDIF input selector\SPDIF input selector.hex
+Folder=Output
+[File010]
+Location=C:\pic\SPDIF input selector\SPDIF input selector.sym
+Folder=Output
+[File011]
+Location=C:\pic\SPDIF input selector\SPDIF input selector.map
+Folder=Output
+[File012]
+Location=C:\pic\SPDIF input selector\SPDIF input selector.hxl
+Folder=Output
+[File013]
+Location=C:\pic\SPDIF input selector\startup.lst
+Folder=Output
+[File014]
+Location=C:\pic\SPDIF input selector\startup.rlf
+Folder=Output
