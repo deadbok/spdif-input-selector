@@ -269,7 +269,7 @@ void enable_pulse_count(void)
 
 void next_input(void)
 {
-    //Skip to next input, wrapping arountd to the first,
+    //Skip to next input, wrapping around to the first,
     //if the last is reached
     if (active_relay >= 4)
         active_relay = 0;
